@@ -37,21 +37,37 @@
           <hr>
 
           <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
-          <p>Adobe Photoshop</p>
+          <p>Protocol: OSPF, BGP, TCP, IP, UDP, ICMP, Tracert</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <!-- <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div> -->
           </div>
-          <p>Photography</p>
+          <p>Tools and Technology: Packet Tracer, VMware, Wireshark, AWS, Azure, PuTTY, Nmap, Defense in Depth, Kali, ZAP, TTPs, IOCs, ZTNA, SASE, SOC</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
-            <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%">
+            <!-- <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:80%"> -->
               <!-- <div class="w3-center w3-text-white">80%</div> -->
             </div>
           </div>
-          <p>Illustrator</p>
+          <p>Authentication: Single-Sign-On, LDAP, RADIUS, MFA, AD-DS, TACACS+</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <!-- <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:75%">75%</div> -->
           </div>
-          <p>Media</p>
+          <p>Guidelines and Frameworks: NIST, ISO, COBIT, PCI DSS, HIPAA, MITRE ATT&CK, OWASP10, Cyber Kill Chain, ITIL</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <!-- <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div> -->
+          </div>
+          <p>Infrastructure Services: DHCP, DNS, SFTP, FTPS</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <!-- <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div> -->
+          </div>
+          <p>Communication Protocols: ARP, STP, VLAN</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <!-- <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div> -->
+          </div>
+          <p>Languages: Java, JavaScript, C, C++, HTML, CSS</p>
+          <div class="w3-light-grey w3-round-xlarge w3-small">
+            <!-- <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div> -->
+          </div>
+          <p>Frameworks: Android studio</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <!-- <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:50%">50%</div> -->
           </div>
