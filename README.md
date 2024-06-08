@@ -25,11 +25,11 @@
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
           <img src="https://dhruv1560.github.io/backimage.jpg" style="width:100%" alt="Avatar">
-          <div class="w3-display-bottomleft w3-container w3-text-black">
-            <h2>Dhruv Patel</h2>
-          </div>
         </div>
         <div class="w3-container">
+          <div class="w3-display w3-container w3-text-black">
+            <h2>Dhruv Patel</h2>
+          </div>
           <p><i class="fa fa-briefcase fa-fw w3-margin-right w3-large w3-text-teal"></i>Cyber Security Engineer</p>
           <p><i class="fa fa-home fa-fw w3-margin-right w3-large w3-text-teal"></i>Hamilton,ON</p>
           <p><i class="fa fa-envelope fa-fw w3-margin-right w3-large w3-text-teal"></i>dhruvpatel1560@gmail.com</p>
