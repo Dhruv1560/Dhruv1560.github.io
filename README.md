@@ -113,7 +113,8 @@
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Graduate Assistant</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - <span class="w3-tag w3-teal w3-round">Feb 2022</span></h6>
+          <!-- <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - <span class="w3-tag w3-teal w3-round">Current</span></h6> -->
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Feb 2022</h6>
           <p>• Resolved class member doubts and held one on one sessions for better reachability.<br>
              • Delivered and Contributed to the development of appropriate teaching materials and assessment activities to
                ensure content and methods of delivery meet learning objectives.<br>
