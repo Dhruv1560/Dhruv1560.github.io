@@ -141,6 +141,14 @@
              • Learn different phase of application such as how to manage and arrange all the fragments and develop each
                fragment with different tools. Learn demo application such as calculator. </p><br>
         </div>
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Web Developer / Silverwings Technologies PVT LTD.</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2018 - Jul 2018</h6>
+          <p>• Writing code for website using language HTML5 and CSS. <br>
+             • Used java script & PHP for validation and other modules. <br>
+             • Testing application such as load Testing and check performance. <br>
+             • Monitor websire Traffic and making adustment if needed. </p><br>
+        </div>
       </div>
 
       <div class="w3-container w3-card w3-white">
