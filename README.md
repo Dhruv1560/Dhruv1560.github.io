@@ -95,7 +95,20 @@
 
     <!-- Right Column -->
     <div class="w3-twothird">
-    
+
+      <div class="w3-container w3-card w3-white w3-margin-bottom">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Key Summary</h2>
+        <div class="w3-container">
+          <p>Computer science post graduated in Cyber Security and active member of ISC2 and CompTIA with over 2
+             years of experience in study and certification. I have knowledge of troubleshooting and resolving technical
+             issues. I recently got CompTIA Security+ SY0-701 on my 1st attempt and required 2 years of experience to
+             pass. As Canadian permanent resident, seeking for a position where my knowledge and skills can assist the
+             enterprise enhance its existing security solutions. Currently preparing for certificates and willing to relocate for
+             the right opportunity.</p>
+          <hr>
+        </div>
+      </div> 
+       
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
