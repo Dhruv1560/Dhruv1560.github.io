@@ -102,9 +102,7 @@
           <p>Graduated in computer engineering and post graduated in Cyber Security and active member of ISC2 and
              CompTIA with over 2 years of experience in study and practicing techniques of cybersecurity, information and
              network security with remarkable attention to details and analytical skills. I have knowledge of troubleshooting,
-             upgrading system, installing network components and resolving technical issues. As Canadian permanent
-             resident, seeking for a position where my knowledge and skills can assist the enterprise enhance its existing
-             security solutions and increase profits alongside with my personal and professional development.</p>
+             upgrading system, installing network components and resolving technical issues. I am seeking for a position where my knowledge and skills can assist the enterprise                     enhance its existing security solutions and increase profits alongside with my personal and professional development.</p>
           <hr>
         </div>
       </div> 
@@ -153,22 +151,17 @@
 
       <div class="w3-container w3-card w3-white">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Education</h2>
+
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>W3Schools.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Forever</h6>
-          <p>Web Development! All I need to know in one place</p>
+          <h5 class="w3-opacity"><b>Saskatchewan Polytechnic</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2021 - 2022</h6>
+          <p>Post Graduation in Cyber Security</p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>London Business School</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2013 - 2015</h6>
-          <p>Master Degree</p>
-          <hr>
-        </div>
-        <div class="w3-container">
-          <h5 class="w3-opacity"><b>School of Coding</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2010 - 2013</h6>
-          <p>Bachelor Degree</p><br>
+          <h5 class="w3-opacity"><b>LDRP-ITR (KSV University)</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>2015 - 2019</h6>
+          <p>Bachelor Degree in Computer Engineering</p><br>
         </div>
       </div>
 
