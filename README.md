@@ -112,7 +112,7 @@
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Graduate Assistant</b></h5>
+          <h5 class="w3-opacity"><b>Graduate Assistant / Saskatchewan Polytechnic </b></h5>
           <!-- <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - <span class="w3-tag w3-teal w3-round">Current</span></h6> -->
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Feb 2022</h6>
           <p>• Resolved class member doubts and held one on one sessions for better reachability.<br>
@@ -122,15 +122,24 @@
           <hr>  
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Mar 2012 - Dec 2014</h6>
-          <p>Consectetur adipisicing elit. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
+          <h5 class="w3-opacity"><b>Software Developer (Mobile) / ScaleTech solutions</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>May 2020 - Dec 2020</h6>
+          <p>• Learn technology of company and familiar with demo application (Framework) of company (System Flow),
+               APIs and how it works.<br>
+             • Start to finish task given by seniors and is a part of main application such as database creation, connect
+               APIs, link database to server of company.<br>
+             • Part time attending lecture of kotlin taken by project leader for how to move from java to kotlin.</p>
           <hr>
         </div>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Graphic Designer / designsomething.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2010 - Mar 2012</h6>
-          <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. </p><br>
+          <h5 class="w3-opacity"><b>Software Developer / Iconic IT Solutions</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jun 2019 - Dec 2019</h6>
+          <p>• Significantly contributed to building, and testing the different modules of the entire application. <br>
+             • Built an application having different challenges where I can learn different module as a part of application. <br>
+             • Leveraged technologies like Firebase for notifications, Text to speech, Google in app purchase for launch
+               and mostly they give me demo application that is basic start of any application. <br>
+             • Learn different phase of application such as how to manage and arrange all the fragments and develop each
+               fragment with different tools. Learn demo application such as calculator. </p><br>
         </div>
       </div>
 
