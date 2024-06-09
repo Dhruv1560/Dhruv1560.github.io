@@ -99,12 +99,12 @@
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Key Summary</h2>
         <div class="w3-container">
-          <p>Computer science post graduated in Cyber Security and active member of ISC2 and CompTIA with over 2
-             years of experience in study and certification. I have knowledge of troubleshooting and resolving technical
-             issues. I recently got CompTIA Security+ SY0-701 on my 1st attempt and required 2 years of experience to
-             pass. As Canadian permanent resident, seeking for a position where my knowledge and skills can assist the
-             enterprise enhance its existing security solutions. Currently preparing for certificates and willing to relocate for
-             the right opportunity.</p>
+          <p>Graduated in computer engineering and post graduated in Cyber Security and active member of ISC2 and
+             CompTIA with over 2 years of experience in study and practicing techniques of cybersecurity, information and
+             network security with remarkable attention to details and analytical skills. I have knowledge of troubleshooting,
+             upgrading system, installing network components and resolving technical issues. As Canadian permanent
+             resident, seeking for a position where my knowledge and skills can assist the enterprise enhance its existing
+             security solutions and increase profits alongside with my personal and professional development.</p>
           <hr>
         </div>
       </div> 
@@ -112,10 +112,13 @@
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
         <div class="w3-container">
-          <h5 class="w3-opacity"><b>Front End Developer / w3schools.com</b></h5>
-          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2015 - <span class="w3-tag w3-teal w3-round">Current</span></h6>
-          <p>Lorem ipsum dolor sit amet. Praesentium magnam consectetur vel in deserunt aspernatur est reprehenderit sunt hic. Nulla tempora soluta ea et odio, unde doloremque repellendus iure, iste.</p>
-          <hr>
+          <h5 class="w3-opacity"><b>Graduate Assistant</b></h5>
+          <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - <span class="w3-tag w3-teal w3-round">Feb 2022</span></h6>
+          <p>• Resolved class member doubts and held one on one sessions for better reachability.<br>
+             • Delivered and Contributed to the development of appropriate teaching materials and assessment activities to
+               ensure content and methods of delivery meet learning objectives.<br>
+             • Taught, helped, and guided graduate students towards completing practical assignments and projects.</p>
+          <hr>  
         </div>
         <div class="w3-container">
           <h5 class="w3-opacity"><b>Web Developer / something.com</b></h5>
