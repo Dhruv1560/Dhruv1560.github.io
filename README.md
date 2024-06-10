@@ -92,10 +92,12 @@
           <div class="w3-display-container">
           <img src="https://dhruv1560.github.io/Security+certificate.jpg" style="width:100%" alt="Avatar">
           </div>
+          <br>
           <p>ISC2 Certified in Cyber Security</p>
           <div class="w3-display-container">
           <img src="https://dhruv1560.github.io/Certificate_CC.jpg" style="width:100%" alt="Avatar">
           </div>
+          <br>
           <p>ICSI Certified Network Security Specialist</p>
           <div class="w3-display-container">
           <img src="https://dhruv1560.github.io/Certificate Of Security Specialist.jpg" style="width:100%" alt="Avatar">
