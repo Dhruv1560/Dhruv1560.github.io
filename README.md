@@ -87,6 +87,10 @@
             <!-- <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div> -->
           </div>
           <br>
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-globe fa-fw w3-margin-right w3-text-teal"></i>Certificates</b></p>
+          <div class="w3-display-container">
+          <img src="https://dhruv1560.github.io/backimage.jpg" style="width:100%" alt="Avatar">
+          </div>
         </div>
       </div><br>
 
