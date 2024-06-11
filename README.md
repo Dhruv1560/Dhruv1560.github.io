@@ -180,6 +180,16 @@
         </div>
       </div>
 
+      <div class="w3-container w3-card w3-white">
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-folder fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Projects</h2>
+
+        <div class="w3-container">
+          <h5 class="w3-opacity"><b>Android Application</b></h5>
+           <a href="https://github.com/Dhruv1560/Android-App">Vehicle Rental Service</a> 
+          <hr>
+        </div>
+      </div>
+
     <!-- End Right Column -->
     </div>
     
@@ -188,19 +198,6 @@
   
   <!-- End Page Container -->
 </div>
-
-<!-- Footer. This section contains an ad for W3Schools Spaces. You can leave it to support us. -->
-<footer class="w3-container w3-teal w3-center w3-margin-top">
-  <p>Find me on social media.</p>
-  <i class="fa fa-facebook-official w3-hover-opacity"></i>
-  <i class="fa fa-instagram w3-hover-opacity"></i>
-  <i class="fa fa-snapchat w3-hover-opacity"></i>
-  <i class="fa fa-pinterest-p w3-hover-opacity"></i>
-  <i class="fa fa-twitter w3-hover-opacity"></i>
-  <i class="fa fa-linkedin w3-hover-opacity"></i>
- <p class="w3-small">This website was made with W3schools Spaces. Make your own free website today!</p>
- <a class="w3-button w3-round-xxlarge w3-small w3-light-grey w3-margin-bottom" href="https://www.w3schools.com/spaces" target="_blank">Start now</a> <!-- End footer -->
- </footer>
 
 </body>
 </html>
