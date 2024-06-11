@@ -36,7 +36,7 @@
           <p><i class="fa fa-phone fa-fw w3-margin-right w3-large w3-text-teal"></i>+1 639-999-9170</p>
           <hr>
 
-          <p class="w3-large"><b><i class="fa fa-asterisk fa-fw w3-margin-right w3-text-teal"></i>Skills</b></p>
+          <h2 class="w3-large"><b><i class="fa fa-terminal fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Skills</b></h2>
           <p>Protocol: OSPF, BGP, TCP, IP, UDP, ICMP, Tracert</p>
           <div class="w3-light-grey w3-round-xlarge w3-small">
             <!-- <div class="w3-container w3-center w3-round-xlarge w3-teal" style="width:90%">90%</div> -->
@@ -87,7 +87,7 @@
             <!-- <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div> -->
           </div>
           <br>
-          <p class="w3-large w3-text-theme"><b><i class="fa fa-certificate fa-fw w3-margin-right w3-text-teal"></i>Certificates</b></p>
+          <h2 class="w3-large w3-text-theme"><b><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Certificates</b></h2>
           <p>compTIA Security+</p>
           <div class="w3-display-container">
           <img src="https://dhruv1560.github.io/Security+certificate.jpg" style="width:100%" alt="Avatar">
@@ -113,7 +113,7 @@
     <div class="w3-twothird">
 
       <div class="w3-container w3-card w3-white w3-margin-bottom">
-        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Key Summary</h2>
+        <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-asterisk fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Key Summary</h2>
         <div class="w3-container">
           <p>Graduated in computer engineering and post graduated in Cyber Security and active member of ISC2 and
              CompTIA with over 2 years of experience in study and practicing techniques of cybersecurity, information and
