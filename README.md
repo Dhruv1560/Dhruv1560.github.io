@@ -102,6 +102,7 @@
           <div class="w3-display-container">
           <img src="https://dhruv1560.github.io/Certificate Of Security Specialist.jpg" style="width:100%" alt="Avatar">
           </div>
+          <br><br>
         </div>
       </div><br>
 
