@@ -9,7 +9,7 @@
     <style>
     html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
     img {
-     padding: 20px;
+     margin: 10px;
      }  
     </style>
   </head>
@@ -26,7 +26,7 @@
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="https://dhruv1560.github.io/profile-pic2.png" style="width:80%" alt="Profile-Pic">
+          <img src="https://dhruv1560.github.io/profile-pic2.png" style="width:100%" alt="Profile-Pic">
         </div>
         <div class="w3-container">
           <div class="w3-display w3-container w3-text-black">
