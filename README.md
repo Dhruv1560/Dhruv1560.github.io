@@ -86,7 +86,7 @@
             <!-- <div class="w3-round-xlarge w3-teal" style="height:24px;width:25%"></div> -->
           </div>
           <br>
-          <h2 class="w3-large w3-text-theme"><b><i class="fa fa-certificate fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Certificates</b></h2>
+          <p class="w3-large w3-text-theme"><b><i class="fa fa-certificate fa-fw w3-margin-right w3-xlarge w3-text-teal"></i>Certificates</b></p>
           <p>compTIA Security+</p>
           <div class="w3-display-container">
           <img src="https://dhruv1560.github.io/Security+certificate.jpg" style="width:100%" alt="Avatar">
