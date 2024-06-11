@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
     html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
-    img2 {
+    img {
      padding: 20px;
      }  
     </style>
@@ -26,7 +26,7 @@
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img2 src="https://dhruv1560.github.io/profile-pic2.png" style="width:100%" alt="Profile-Pic">
+          <img src="https://dhruv1560.github.io/profile-pic2.png" style="width:100%" alt="Profile-Pic">
         </div>
         <div class="w3-container">
           <div class="w3-display w3-container w3-text-black">
