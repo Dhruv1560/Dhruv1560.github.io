@@ -73,7 +73,7 @@
           </div>
           <br>
 
-          <p class="w3-large w3-text-theme"><b><i class="fa fa-language fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Languages</b></p>
+          <h2 class="w3-large w3-text-theme"><b><i class="fa fa-language fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Languages</b></h2>
           <p>English</p>
           <div class="w3-light-grey w3-round-xlarge">
             <!-- <div class="w3-round-xlarge w3-teal" style="height:24px;width:100%"></div> -->
