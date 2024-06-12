@@ -8,9 +8,12 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <style>
     html,body,h1,h2,h3,h4,h5,h6 {font-family: "Roboto", sans-serif}
-    img {
-     
-     }  
+    .center {
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 80%;
+     }
     </style>
   </head>
 <body class="w3-light-grey">
@@ -26,7 +29,7 @@
     
       <div class="w3-white w3-text-grey w3-card-4">
         <div class="w3-display-container">
-          <img src="https://dhruv1560.github.io/profile-pic3.png" style="width:80%" alt="Profile-Pic">
+          <img src="https://dhruv1560.github.io/profile-pic3.png" class="center" alt="Profile-Pic">
         </div>
         <div class="w3-container">
           <div class="w3-display w3-container w3-text-black">
