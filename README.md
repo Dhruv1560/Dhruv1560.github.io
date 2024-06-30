@@ -131,7 +131,21 @@
        
       <div class="w3-container w3-card w3-white w3-margin-bottom">
         <h2 class="w3-text-grey w3-padding-16"><i class="fa fa-suitcase fa-fw w3-margin-right w3-xxlarge w3-text-teal"></i>Work Experience</h2>
-        <div class="w3-container">
+        
+      <div class="w3-container">
+      <h5 class="w3-opacity"><b>Help Desk Technician / ACME Clothing LLP. </b></h5>
+      <!-- <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - <span class="w3-tag w3-teal w3-round">Current</span></h6> -->
+      <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2024 - Current</h6>
+      <p>• Conﬁgure and deploy software and Email-Setup.<br>
+        • Update Firmware versions and Maintain Integrity by validating signature of system file and Software.<br>
+        • Diagnosing the technical issue, document the issue and solve the ticket by recommending possible options.<br>
+        • Troubleshoot through the phone calls and on-site to detect root cause.<br>
+        • Whitelisting of application and provide technical support over the phone/ Remotely.<br>
+        • Configure proxy server to control outgoing web traffic.<br>
+        • Check the life-span of network component and Backing up / Restoring Data Files.</p>
+      <hr>  
+      </div>
+       <div class="w3-container">
           <h5 class="w3-opacity"><b>Graduate Assistant / Saskatchewan Polytechnic </b></h5>
           <!-- <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - <span class="w3-tag w3-teal w3-round">Current</span></h6> -->
           <h6 class="w3-text-teal"><i class="fa fa-calendar fa-fw w3-margin-right"></i>Jan 2021 - Feb 2022</h6>
