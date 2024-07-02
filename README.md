@@ -139,8 +139,7 @@
       <p>• Conﬁgure and deploy software and Email-Setup.<br>
         • Update Firmware versions and Maintain Integrity by validating signature of system file and Software.<br>
         • Diagnosing the technical issue, document the issue and solve the ticket by recommending possible options.<br>
-        • Troubleshoot through the phone calls and on-site to detect root cause.<br>
-        • Whitelisting of application and provide technical support over the phone/ Remotely.<br>
+        • Troubleshoot through the phone calls and remotely to detect root cause.<br>
         • Configure proxy server to control outgoing web traffic.<br>
         • Check the life-span of network component and Backing up / Restoring Data Files.</p>
       <hr>  
